@@ -6,3 +6,11 @@ fungsi dari file rename.py adalah untuk me-rename file gambar/data yang ada di f
 
 ### split.py
 fungsi dari file split.py adalah untuk mengambil file gambar di tiap kelas dan meletakkannya di folder Citra Latih dan Citra Uji. folder Citra Latih adalah dataset dimana akan di ekstrak fitur nya untuk pembuatan model, dan Citra Uji untuk keperluan testing. Pembagian dataset adalah 15 gambar untuk latih dan 5 gambar untuk uji.
+
+## Fitur
+Fitur yang diekstrak dari dataset adalah :
+- area
+- eccentricity
+- perimeter
+- metric
+- dan nilai dari setiap kanal warna (Red, Green, Blue)
