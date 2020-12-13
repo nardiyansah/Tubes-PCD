@@ -14,3 +14,6 @@ Fitur yang diekstrak dari dataset adalah :
 - perimeter
 - metric
 - dan nilai dari setiap kanal warna (Red, Green, Blue)
+
+### ekstrak_fitur.m
+ekstrak_fitur.m adalah file yang berisi script matlab. Digunakan untuk melakukan image processing dan mengkstrak fitur dari dataset.
