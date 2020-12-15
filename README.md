@@ -18,5 +18,5 @@ Fitur yang diekstrak dari dataset adalah :
 ### ekstrak_fitur.m
 ekstrak_fitur.m adalah file yang berisi script matlab. Digunakan untuk melakukan image processing dan mengkstrak fitur dari dataset.
 
-### Klasifikasi.ipynb
+### klasifikasi.ipynb
 klasifikasi.ipynb adalah file untuk proses pengklasifikasian. Kode yang dibuat mengikuti 2 referensi utama yaitu [tensorflow](https://www.tensorflow.org/tutorials/keras/regression) dan [machinelearningmastery.com](https://machinelearningmastery.com/multi-class-classification-tutorial-keras-deep-learning-library/)
