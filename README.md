@@ -13,10 +13,10 @@ Fitur yang diekstrak dari dataset adalah :
 - eccentricity
 - perimeter
 - metric
-- dan nilai dari setiap kanal warna (Red, Green, Blue)
+- nilai kanal Green
 
 ### ekstrak_fitur.m
 ekstrak_fitur.m adalah file yang berisi script matlab. Digunakan untuk melakukan image processing dan mengkstrak fitur dari dataset.
 
 ### klasifikasi.ipynb
-klasifikasi.ipynb adalah file untuk proses pengklasifikasian. Kode yang dibuat mengikuti 2 referensi utama yaitu [tensorflow](https://www.tensorflow.org/tutorials/keras/regression) dan [machinelearningmastery.com](https://machinelearningmastery.com/multi-class-classification-tutorial-keras-deep-learning-library/)
+Klasifikasi menggunakan KNN dengan jumlah tetangga 7
