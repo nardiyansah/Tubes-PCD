@@ -1,4 +1,4 @@
-image_folder = 'Citra Latih';
+image_folder = 'dataset';
 % dir itu untuk list content dalam directory
 % fullfile itu untuk membuat semua properti dari sebuah file, trus
 % nyambungin path kayak os.path.join
